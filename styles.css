@@ -1,3 +1,7 @@
 .hero_section img {
   height: 70vh;
 }
+
+.button {
+  border-color: aqua;
+}
